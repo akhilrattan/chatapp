@@ -34,5 +34,5 @@ const handleSubmit = async(event) => {
     </div>
   )
 }
-
+  
 export default ProfilePage
